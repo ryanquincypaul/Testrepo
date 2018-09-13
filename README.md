@@ -1,0 +1,1 @@
+This repo is a requirement for a lecture in 6306. I'm supposed to create a readme, add my data science profile, and some files from Professor McGee's [stat6306datascience repo](https://github.com/MonnieMcGee/stat6306introdatascience).
